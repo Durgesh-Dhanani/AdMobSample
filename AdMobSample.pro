@@ -17,6 +17,10 @@ ios {
   LIBS += -L$$PWD/ios
 }
 
+android {
+  LIBS += -lAdmobPlugin
+}
+
 # Default rules for deployment.
 include(deployment.pri)
 
