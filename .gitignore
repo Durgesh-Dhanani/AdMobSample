@@ -17,3 +17,5 @@ Makefile*
 
 *.autosave
 
+/vendor/google-play-services_lib/bin
+/vendor/google-play-services_lib/gen
