@@ -8,7 +8,7 @@ Instructions
 
 - Install the AdMob plugin as described here: http://plugins.v-play.net/doc/plugin-installation/#downloading-v-play-plugins
 
-- Open `vendor/google-play-services_lib/loca.properties` and adapt the path to your Android SDK installation
+- Open `vendor/google-play-services_lib/local.properties` and adapt the path to your Android SDK installation
 
 - Open `AdMobSample.pro` in Qt Creator and configure the project for an iOS or Android target
 
